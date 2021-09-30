@@ -1,6 +1,6 @@
 {
-"name": "Prueba ALAN",
-"description": "Prueba cardano Alan",
-"ticker": "ALAN",
-"homepage": "https://anglocorp.com"
+"name": "Poseidon",
+"description": "Testnet Poseidon StakePool",
+"ticker": "PSDN",
+"homepage": "https://poseidonpool.io"
 }
